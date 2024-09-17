@@ -1,0 +1,201 @@
+Patient ID,Age,Gender,Admission Date,Discharge Date,Diagnosis,Treatment,Hospital Department
+P001,29,Male,04-02-2024,04-02-2024,Diabetes,Counseling,Pediatrics
+P002,37,Female,29-01-2024,24-03-2024,Asthma,Medication,Urology
+P003,12,Female,07-05-2023,22-11-2023,Asthma,Physical Therapy,Neurology
+P004,57,Male,06-12-2022,26-01-2024,Asthma,Surgery,Emergency
+P005,21,Other,17-01-2023,07-03-2024,COVID-19,Chemotherapy,Cardiology
+P006,21,Male,05-04-2023,24-09-2023,Migraine,Radiation Therapy,Cardiology
+P007,23,Male,11-08-2023,23-08-2024,Anemia,Medication,Gastroenterology
+P008,50,Other,30-05-2023,29-06-2024,Anemia,Chemotherapy,General Medicine
+P009,7,Male,13-02-2023,01-05-2024,Hypertension,Medication,Cardiology
+P010,21,Female,02-09-2023,09-02-2024,Anemia,Counseling,Urology
+P011,81,Male,25-02-2023,30-07-2024,Diabetes,Counseling,Cardiology
+P012,23,Other,29-05-2023,21-06-2024,Fracture,Observation,Orthopedics
+P013,56,Female,21-09-2022,01-09-2023,Heart Disease,Medication,Pediatrics
+P014,74,Male,18-08-2023,16-02-2024,Anemia,Observation,Cardiology
+P015,8,Female,06-03-2023,14-04-2024,Gastroenteritis,Radiation Therapy,Dermatology
+P016,29,Male,22-02-2024,04-08-2024,Anemia,Blood Transfusion,General Medicine
+P017,4,Male,27-11-2022,13-06-2024,Asthma,Radiation Therapy,Pediatrics
+P018,46,Other,18-11-2022,24-04-2024,Asthma,Physical Therapy,Dermatology
+P019,63,Other,07-12-2022,13-05-2024,Gastroenteritis,Chemotherapy,General Medicine
+P020,83,Other,21-05-2024,21-05-2024,Gastroenteritis,Chemotherapy,General Medicine
+P021,53,Male,30-03-2023,28-09-2023,Fracture,Medication,Cardiology
+P022,40,Male,10-04-2023,27-04-2024,Migraine,Surgery,Gastroenterology
+P023,71,Female,31-08-2023,29-03-2024,Diabetes,Rehabilitation,Emergency
+P024,31,Male,22-10-2023,12-07-2024,COVID-19,Physical Therapy,Cardiology
+P025,25,Other,31-08-2022,23-11-2023,Gastroenteritis,Physical Therapy,Oncology
+P026,5,Other,10-08-2024,10-08-2024,Migraine,Medication,Emergency
+P027,17,Other,24-09-2022,20-11-2023,COVID-19,Observation,Pediatrics
+P028,54,Female,27-03-2023,28-02-2024,Pneumonia,Chemotherapy,Orthopedics
+P029,23,Female,11-03-2023,27-08-2023,Anemia,Radiation Therapy,Pediatrics
+P030,3,Male,30-12-2023,11-03-2024,Migraine,Rehabilitation,Gastroenterology
+P031,2,Male,29-04-2024,29-04-2024,Asthma,Radiation Therapy,Orthopedics
+P032,45,Female,02-07-2024,02-07-2024,Anemia,Chemotherapy,Dermatology
+P033,8,Female,06-07-2024,06-07-2024,Anemia,Dialysis,Neurology
+P034,32,Female,08-03-2024,08-03-2024,Pneumonia,Physical Therapy,Emergency
+P035,3,Other,23-04-2024,23-04-2024,Asthma,Blood Transfusion,General Medicine
+P036,10,Other,27-01-2024,11-07-2024,Hypertension,Blood Transfusion,Cardiology
+P037,99,Female,23-01-2024,05-05-2024,Asthma,Radiation Therapy,Emergency
+P038,91,Other,07-05-2023,15-12-2023,Fracture,Medication,Urology
+P039,6,Other,21-04-2024,21-04-2024,Pneumonia,Medication,Orthopedics
+P040,26,Other,29-10-2023,14-12-2023,Gastroenteritis,Observation,Gastroenterology
+P041,49,Male,23-04-2024,23-04-2024,Migraine,Medication,Orthopedics
+P042,64,Male,16-08-2024,16-08-2024,Asthma,Medication,Urology
+P043,19,Other,30-09-2022,13-03-2024,Gastroenteritis,Surgery,Neurology
+P044,97,Male,15-04-2024,09-07-2024,Pneumonia,Chemotherapy,Orthopedics
+P045,86,Male,05-10-2022,22-07-2024,Diabetes,Counseling,Urology
+P046,93,Other,25-02-2023,18-08-2024,Asthma,Surgery,Neurology
+P047,7,Male,08-04-2024,08-04-2024,Diabetes,Physical Therapy,Oncology
+P048,88,Other,29-07-2023,02-02-2024,Gastroenteritis,Counseling,Cardiology
+P049,97,Male,13-09-2023,13-12-2023,Migraine,Surgery,Urology
+P050,50,Male,13-12-2022,22-08-2024,Heart Disease,Chemotherapy,Gastroenterology
+P051,51,Male,25-03-2023,07-04-2024,Pneumonia,Rehabilitation,Neurology
+P052,49,Female,03-02-2023,23-09-2023,Heart Disease,Rehabilitation,Urology
+P053,99,Other,26-07-2023,15-05-2024,Migraine,Dialysis,Dermatology
+P054,10,Female,31-12-2022,27-12-2023,Anemia,Dialysis,General Medicine
+P055,74,Other,04-04-2023,04-05-2024,Anemia,Blood Transfusion,Orthopedics
+P056,95,Other,19-12-2022,20-07-2024,Hypertension,Rehabilitation,Neurology
+P057,1,Other,21-07-2024,21-07-2024,Pneumonia,Dialysis,Oncology
+P058,13,Male,14-03-2024,14-03-2024,Asthma,Physical Therapy,Orthopedics
+P059,95,Other,12-11-2022,22-01-2024,Heart Disease,Surgery,Pediatrics
+P060,15,Male,23-07-2023,23-12-2023,Pneumonia,Medication,Pediatrics
+P061,90,Other,06-05-2024,06-05-2024,Heart Disease,Chemotherapy,Emergency
+P062,83,Female,20-12-2022,26-01-2024,Fracture,Chemotherapy,Neurology
+P063,7,Male,16-12-2022,23-06-2024,Asthma,Blood Transfusion,Pediatrics
+P064,27,Male,17-03-2024,08-08-2024,Gastroenteritis,Surgery,Emergency
+P065,76,Other,22-07-2024,22-07-2024,COVID-19,Surgery,Neurology
+P066,82,Other,21-01-2024,21-01-2024,Diabetes,Surgery,Orthopedics
+P067,6,Female,05-08-2024,05-08-2024,Asthma,Observation,General Medicine
+P068,98,Female,03-09-2022,20-08-2024,COVID-19,Surgery,Pediatrics
+P069,33,Other,03-01-2023,16-10-2023,Asthma,Physical Therapy,General Medicine
+P070,23,Other,17-05-2023,04-02-2024,Gastroenteritis,Blood Transfusion,Cardiology
+P071,89,Other,10-11-2022,30-12-2023,Hypertension,Surgery,Orthopedics
+P072,68,Other,17-05-2024,14-07-2024,Heart Disease,Counseling,Orthopedics
+P073,97,Other,12-02-2023,09-09-2023,Diabetes,Counseling,Emergency
+P074,40,Female,31-05-2023,19-08-2024,Hypertension,Blood Transfusion,Emergency
+P075,60,Other,23-03-2023,26-08-2024,COVID-19,Physical Therapy,Gastroenterology
+P076,25,Female,25-06-2023,25-07-2024,Fracture,Observation,Neurology
+P077,84,Other,26-03-2023,17-02-2024,Migraine,Counseling,Oncology
+P078,58,Female,28-03-2024,19-04-2024,Diabetes,Dialysis,Emergency
+P079,54,Female,12-10-2023,17-01-2024,Pneumonia,Surgery,General Medicine
+P080,93,Female,08-03-2023,30-03-2024,Migraine,Medication,Oncology
+P081,38,Male,06-10-2022,05-07-2024,COVID-19,Chemotherapy,Neurology
+P082,91,Male,11-12-2022,19-02-2024,Hypertension,Counseling,Dermatology
+P083,28,Female,01-09-2022,03-01-2024,Pneumonia,Physical Therapy,Dermatology
+P084,65,Female,13-04-2024,02-07-2024,Asthma,Observation,Cardiology
+P085,49,Other,17-03-2024,30-05-2024,Diabetes,Radiation Therapy,Oncology
+P086,32,Female,09-11-2022,15-09-2023,Heart Disease,Counseling,Emergency
+P087,98,Other,13-04-2023,27-11-2023,COVID-19,Counseling,Orthopedics
+P088,70,Male,05-10-2022,20-12-2023,Heart Disease,Chemotherapy,Oncology
+P089,2,Other,04-04-2024,04-04-2024,Heart Disease,Medication,Gastroenterology
+P090,55,Male,19-07-2024,19-07-2024,Pneumonia,Chemotherapy,General Medicine
+P091,37,Male,25-06-2023,14-10-2023,Asthma,Observation,Dermatology
+P092,91,Male,13-11-2022,23-01-2024,Hypertension,Medication,Neurology
+P093,8,Female,21-06-2024,21-06-2024,Gastroenteritis,Observation,Cardiology
+P094,79,Male,30-05-2023,17-04-2024,Diabetes,Counseling,Gastroenterology
+P095,52,Female,26-01-2024,25-04-2024,Fracture,Physical Therapy,Emergency
+P096,75,Female,11-09-2023,06-08-2024,Heart Disease,Surgery,Cardiology
+P097,29,Male,18-07-2023,31-01-2024,Pneumonia,Blood Transfusion,Urology
+P098,94,Other,24-07-2023,05-03-2024,Hypertension,Counseling,Dermatology
+P099,18,Other,03-08-2023,15-01-2024,Heart Disease,Rehabilitation,Oncology
+P100,20,Other,31-05-2024,31-05-2024,COVID-19,Radiation Therapy,Orthopedics
+P101,79,Male,20-06-2024,20-06-2024,Fracture,Blood Transfusion,Urology
+P102,16,Male,15-07-2023,06-06-2024,Diabetes,Surgery,Dermatology
+P103,91,Other,07-10-2023,06-05-2024,Gastroenteritis,Observation,Emergency
+P104,73,Female,27-09-2022,29-09-2023,Anemia,Rehabilitation,Gastroenterology
+P105,100,Other,27-06-2023,27-12-2023,Migraine,Medication,Oncology
+P106,64,Other,26-06-2024,26-06-2024,Pneumonia,Physical Therapy,Gastroenterology
+P107,65,Other,08-06-2023,02-04-2024,Hypertension,Radiation Therapy,Pediatrics
+P108,57,Other,14-04-2024,14-04-2024,Heart Disease,Counseling,Dermatology
+P109,2,Female,18-12-2023,15-03-2024,Pneumonia,Rehabilitation,Oncology
+P110,37,Female,28-06-2024,19-08-2024,Hypertension,Physical Therapy,Gastroenterology
+P111,50,Female,06-03-2024,06-03-2024,Asthma,Counseling,Oncology
+P112,12,Male,13-06-2024,13-06-2024,Asthma,Blood Transfusion,Cardiology
+P113,88,Male,01-05-2023,09-12-2023,Gastroenteritis,Rehabilitation,Orthopedics
+P114,86,Male,02-02-2023,18-05-2024,Anemia,Physical Therapy,Urology
+P115,63,Male,22-12-2023,22-07-2024,Diabetes,Counseling,Urology
+P116,31,Female,27-05-2024,23-08-2024,Anemia,Surgery,Orthopedics
+P117,7,Male,16-07-2024,16-07-2024,Asthma,Medication,Oncology
+P118,89,Male,03-05-2024,20-05-2024,Gastroenteritis,Blood Transfusion,Gastroenterology
+P119,39,Female,08-09-2023,15-11-2023,Heart Disease,Chemotherapy,Oncology
+P120,26,Female,27-05-2024,16-06-2024,Hypertension,Observation,Cardiology
+P121,9,Female,29-04-2024,26-06-2024,Hypertension,Chemotherapy,Pediatrics
+P122,74,Male,09-03-2024,07-08-2024,Fracture,Observation,Orthopedics
+P123,28,Female,29-04-2024,13-06-2024,Hypertension,Medication,Gastroenterology
+P124,14,Female,12-06-2023,06-08-2024,COVID-19,Chemotherapy,Emergency
+P125,77,Other,31-08-2022,23-07-2024,Asthma,Physical Therapy,Pediatrics
+P126,68,Other,15-01-2024,30-05-2024,Gastroenteritis,Rehabilitation,Neurology
+P127,99,Male,31-03-2023,23-10-2023,Migraine,Medication,Gastroenterology
+P128,5,Female,09-03-2023,06-04-2024,Diabetes,Rehabilitation,Emergency
+P129,81,Male,01-03-2024,01-03-2024,Diabetes,Rehabilitation,Oncology
+P130,90,Female,13-06-2023,08-02-2024,Heart Disease,Counseling,Cardiology
+P131,27,Male,22-08-2023,21-05-2024,Fracture,Counseling,Gastroenterology
+P132,81,Female,07-07-2023,26-08-2024,Migraine,Surgery,Orthopedics
+P133,48,Other,15-07-2023,13-02-2024,Diabetes,Blood Transfusion,Gastroenterology
+P134,18,Female,06-06-2024,06-06-2024,Anemia,Medication,Gastroenterology
+P135,58,Female,29-12-2022,10-02-2024,Asthma,Physical Therapy,Emergency
+P136,67,Male,08-12-2023,03-07-2024,Gastroenteritis,Chemotherapy,Dermatology
+P137,85,Other,21-10-2023,06-01-2024,Asthma,Observation,Neurology
+P138,40,Male,12-05-2023,31-10-2023,Fracture,Blood Transfusion,Dermatology
+P139,92,Other,18-06-2024,18-06-2024,Gastroenteritis,Chemotherapy,Gastroenterology
+P140,42,Female,18-10-2022,12-08-2024,Fracture,Counseling,Dermatology
+P141,31,Female,25-01-2023,24-10-2023,Diabetes,Blood Transfusion,Neurology
+P142,59,Other,26-01-2023,20-08-2024,Fracture,Counseling,Oncology
+P143,49,Other,07-10-2022,26-09-2023,Pneumonia,Dialysis,Emergency
+P144,73,Female,06-04-2023,27-12-2023,Pneumonia,Counseling,Neurology
+P145,68,Other,08-11-2022,11-01-2024,Pneumonia,Physical Therapy,Oncology
+P146,2,Female,29-07-2024,29-07-2024,COVID-19,Blood Transfusion,Urology
+P147,84,Male,15-10-2022,20-04-2024,Fracture,Medication,Orthopedics
+P148,44,Other,08-06-2024,06-08-2024,Diabetes,Surgery,General Medicine
+P149,68,Female,20-10-2022,26-02-2024,Asthma,Blood Transfusion,Emergency
+P150,61,Male,24-01-2024,07-08-2024,Pneumonia,Rehabilitation,Neurology
+P151,91,Male,20-03-2024,13-08-2024,Migraine,Chemotherapy,Dermatology
+P152,40,Male,11-02-2023,08-12-2023,Pneumonia,Surgery,General Medicine
+P153,88,Other,06-04-2023,15-09-2023,Migraine,Counseling,Urology
+P154,44,Male,15-05-2023,03-12-2023,Fracture,Physical Therapy,Oncology
+P155,30,Female,08-05-2024,08-05-2024,Hypertension,Chemotherapy,General Medicine
+P156,39,Other,25-08-2024,25-08-2024,Diabetes,Medication,Emergency
+P157,38,Other,11-08-2023,27-01-2024,Pneumonia,Physical Therapy,Gastroenterology
+P158,62,Female,23-10-2022,22-05-2024,Anemia,Blood Transfusion,Urology
+P159,99,Female,29-07-2023,10-07-2024,Pneumonia,Observation,Cardiology
+P160,73,Female,27-12-2023,02-07-2024,Pneumonia,Rehabilitation,Neurology
+P161,20,Female,09-03-2023,29-07-2024,Heart Disease,Surgery,Pediatrics
+P162,22,Other,08-05-2023,29-10-2023,COVID-19,Observation,General Medicine
+P163,56,Other,29-01-2024,29-01-2024,Migraine,Physical Therapy,Cardiology
+P164,23,Other,14-01-2023,23-12-2023,Gastroenteritis,Radiation Therapy,Dermatology
+P165,59,Male,24-02-2023,03-08-2024,Migraine,Medication,Neurology
+P166,80,Female,01-02-2024,02-07-2024,Heart Disease,Radiation Therapy,Pediatrics
+P167,38,Other,23-07-2023,26-04-2024,Anemia,Observation,Orthopedics
+P168,94,Female,18-08-2024,18-08-2024,Fracture,Radiation Therapy,Dermatology
+P169,10,Female,01-10-2022,18-02-2024,Asthma,Counseling,Emergency
+P170,88,Male,05-01-2023,07-02-2024,Pneumonia,Physical Therapy,Cardiology
+P171,95,Other,21-05-2023,02-06-2024,Migraine,Rehabilitation,Oncology
+P172,19,Male,14-10-2022,04-08-2024,Anemia,Radiation Therapy,Emergency
+P173,52,Female,04-04-2023,19-12-2023,Hypertension,Chemotherapy,Dermatology
+P174,15,Other,30-07-2023,30-06-2024,Gastroenteritis,Physical Therapy,Dermatology
+P175,20,Male,20-02-2023,23-04-2024,Heart Disease,Observation,General Medicine
+P176,97,Male,25-08-2024,25-08-2024,COVID-19,Physical Therapy,Pediatrics
+P177,92,Other,09-04-2023,15-02-2024,Pneumonia,Chemotherapy,Dermatology
+P178,54,Female,29-04-2023,08-03-2024,Pneumonia,Surgery,Emergency
+P179,59,Male,11-04-2023,17-02-2024,Heart Disease,Blood Transfusion,General Medicine
+P180,85,Other,18-06-2024,18-06-2024,Diabetes,Observation,Cardiology
+P181,16,Male,28-05-2024,28-05-2024,Hypertension,Dialysis,Orthopedics
+P182,78,Other,03-04-2023,23-11-2023,Hypertension,Observation,Gastroenterology
+P183,23,Female,20-08-2023,09-06-2024,Diabetes,Rehabilitation,Pediatrics
+P184,75,Female,08-01-2023,09-02-2024,Diabetes,Rehabilitation,Dermatology
+P185,96,Other,31-01-2024,02-02-2024,Asthma,Blood Transfusion,Gastroenterology
+P186,42,Other,04-09-2023,24-04-2024,COVID-19,Blood Transfusion,Dermatology
+P187,40,Other,24-05-2023,07-07-2024,Pneumonia,Surgery,Gastroenterology
+P188,36,Female,30-11-2022,16-09-2023,Hypertension,Chemotherapy,Urology
+P189,32,Male,04-02-2023,30-09-2023,Hypertension,Dialysis,Emergency
+P190,62,Male,29-04-2024,29-04-2024,Hypertension,Chemotherapy,Dermatology
+P191,52,Male,29-07-2023,06-11-2023,Heart Disease,Observation,Oncology
+P192,25,Female,30-05-2023,01-06-2024,Migraine,Radiation Therapy,Urology
+P193,3,Other,05-03-2024,05-03-2024,Diabetes,Radiation Therapy,Neurology
+P194,49,Other,09-11-2022,02-04-2024,Migraine,Dialysis,Dermatology
+P195,33,Other,14-02-2024,14-02-2024,Anemia,Dialysis,Neurology
+P196,54,Male,04-05-2024,12-06-2024,Migraine,Dialysis,Neurology
+P197,6,Male,01-05-2023,27-12-2023,Hypertension,Surgery,Urology
+P198,25,Female,29-12-2022,17-08-2024,COVID-19,Rehabilitation,Cardiology
+P199,19,Other,22-11-2023,15-06-2024,Fracture,Observation,Neurology
+P200,85,Male,21-10-2023,08-01-2024,Asthma,Rehabilitation,Dermatology
